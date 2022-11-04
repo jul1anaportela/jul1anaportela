@@ -2,7 +2,7 @@
 
 ### Este é o meu perfil GitHub, sintam-se à vontade 👋
 
-Sou estudante de Engenharia da Computação, estou no 6º período, venho desenvolvendo interesse no FrontEnd. Logo abaixo listei algumas tecnologias que estou estudando atualmente.
+Estou me formando em Engenharia de Computação e adoro programação. Atualmente estou estudando Javascript, tenho alguns projetos pessoais como você pode ver no meu repositório.
 
 ### Estou aprendendo:
 
