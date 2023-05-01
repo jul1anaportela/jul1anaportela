@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 Atualmente trabalhando na Plan International<br>💻 Recém-formada em Engenharia da Computação<br>🐍 Estudando Python e também participo de eventos online de programação<br>⚡ Desenvolvo projetos pessoais para consolidar conhecimento e aprimorar as minhas habilidades de programação
+🔥 Atualmente trabalhando na Plan International<br>💻 Recém-formada em Engenharia da Computação<br>🐍 Estudando Python e seus frameworks Flsk e Django<br>⚡ Desenvolvo projetos pessoais para consolidar conhecimento e aprimorar as minhas habilidades de programação
 
 
 ## 🌐 Socials:
