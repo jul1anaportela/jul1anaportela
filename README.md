@@ -11,7 +11,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jul1anaportela&theme=dark&hide_border=false)<br/>
-!username=jul1anaportela&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
