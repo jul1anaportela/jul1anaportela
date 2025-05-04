@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 Atualmente trabalhando na Plan International<br>💻 Formada em Engenharia da Computação<br>✨ Estudando Frameworks de Front-End<br>⚡ Desenvolvo projetos pessoais para consolidar conhecimento e aprimorar as minhas habilidades de programação
+🔥 Atualmente trabalhando na Plan International<br>💻 Formada em Engenharia da Computação<br>✨ Aprimorando habilidades em frameworks modernos.<br>⚡Projetos pessoais: meu laboratório de aprendizado.
 
 
 ## 🌐 Socials:
