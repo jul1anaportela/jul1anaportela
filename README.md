@@ -42,6 +42,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-553982?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-553982?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-553982?style=for-the-badge&logo=windows&logoColor=white)
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jul1anaportela&theme=dark&hide_border=false)<br/>
